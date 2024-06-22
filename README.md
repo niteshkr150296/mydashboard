@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
 <h3 align="center">A passionate DevOps Engineer willing to implement my DevOps skills in a organization.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmadhup&label=Profile%20views&color=0e75b6&style=flat" alt="devmadhup" /> </p>
+<p align="left"> <img src="" alt="niteshdev" /> </p>
 
-<img src="https://github.com/DevMadhup/DevMadhup/blob/main/blogbranding.png" alt="BlogBranding" />
+<img src="https://github.com/niteshkr150296/mydashboard/blob/master/blogbranding.png" alt="BlogBranding" />
  
 <br>
 <br>
@@ -11,9 +11,9 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 🔭 I’m currently working on **AWS and Azure Cloud**
+- 🔭 I’m currently working on **AWS Cloud**
 
-- 📝 I regularly write articles on [https://hashnode.com/@Madhup2908](https://hashnode.com/@Madhup2908)
+<--!- 📝 I regularly write articles on [https://hashnode.com/](https://hashnode.com/)-->
 
 - 💬 Ask me about **DevOps, AWS cloud required for DevOps**
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nitesh0158" target="blank"><img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/twitter.gif" alt="nitesh kumar" height="65" width="75" /></a>
-<a href="https://www.linkedin.com/in/niteshkr150296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="" alt="Linkedin PNG" height="55" width="50" /></a>
+<a href="https://twitter.com/nitesh0158" target="blank"><img align="center" src="https://github.com/niteshkr150296/mydashboard/blob/master/x%20logo.gif" alt="nitesh kumar" height="65" width="75" /></a>
+<a href="https://github.com/niteshkr150296/mydashboard/blob/master/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" target="blank"><img align="center" src="https://www.linkedin.com/in/niteshkr150296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="Linkedin PNG" height="55" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
