@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nitesh0158" target="blank"><img align="center" src="https://github.com/niteshkr150296/mydashboard/blob/master/x%20logo.gif" alt="nitesh kumar" height="65" width="75" /></a>
-<a href="https://www.linkedin.com/in/niteshkr150296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://github.com/niteshkr150296/mydashboard/blob/master/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin PNG" height="55" width="50" /></a>
+<a href="https://twitter.com/nitesh0158" target="blank"><img align="center" src="https://github.com/niteshkr150296/mydashboard/blob/master/x%20logo.gif" alt="nitesh kumar" height="55" width="55" /></a>
+<a href="https://www.linkedin.com/in/niteshkr150296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://github.com/niteshkr150296/mydashboard/blob/master/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin PNG" height="55" width="55" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
