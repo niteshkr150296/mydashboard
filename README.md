@@ -26,7 +26,24 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/niteshkr150296/mydashboard/blob/master/aws.gif" alt="aws" width="60" height="55"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="55"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/niteshkr150296/mydashboard/blob/master/docker%20gif.gif" alt="docker" width="55" height="55"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/niteshkr150296/mydashboard/blob/master/git.gif" alt="git" width="80" height="55"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="55" height="65"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://github.com/niteshkr150296/mydashboard/blob/master/jenkins.gif" alt="jenkins" width="75" height="55"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/niteshkr150296/mydashboard/blob/master/kuber.gif" alt="kubernetes" width="55" height="55"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> </a>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/niteshkr150296/mydashboard/blob/master/aws.gif" alt="aws" width="60" height="55"/> </a>
+
+<!--<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="55"/> </a>-->
+
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/> </a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/niteshkr150296/mydashboard/blob/master/docker%20gif.gif" alt="docker" width="55" height="55"/> </a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/niteshkr150296/mydashboard/blob/master/git.gif" alt="git" width="80" height="55"/> </a>
+
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="55" height="65"/> </a>
+
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://github.com/niteshkr150296/mydashboard/blob/master/jenkins.gif" alt="jenkins" width="75" height="55"/> </a>
+
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/niteshkr150296/mydashboard/blob/master/kuber.gif" alt="kubernetes" width="55" height="55"/> </a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> </a>
+
 <a href="https://prometheus.io/" target="_blank" >
     <img src="" height="55" />
   </a></p>
