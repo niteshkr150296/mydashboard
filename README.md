@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on **AWS Cloud**
 
-<--!- 📝 I regularly write articles on [https://hashnode.com/](https://hashnode.com/)-->
-
 - 💬 Ask me about **DevOps, AWS cloud required for DevOps**
 
 - 📫 How to reach me **niteshkr150296@gmail.com**
@@ -33,8 +31,3 @@
   </a> <a href="https://www.nagios.com/nagios2024/?creative=680167062872&keyword=nagios&matchtype=b&network=g&device=c&utm_agid=159034579641&creative=680167062872&device=c&placement=&utm_term=nagios&utm_campaign=&utm_source=google-ads&utm_medium=ppc&hsa_acc=6435916521&hsa_cam=20762237959&hsa_grp=159034579641&hsa_ad=680167062872&hsa_src=g&hsa_tgt=kwd-46496522&hsa_kw=nagios&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjw7NmzBhBLEiwAxrHQ-YTG_koEQynfnNX5UCYdcciRIAO5JsOUZpkGinMlK8tQ_YeRVws3WRoC0V0QAvD_BwE" target="_blank" >
    
   </a></p>
-
-<p><img align="left" src="https://github.com/niteshkr150296/mydashboard/blob/master/github-contribution-grid-snake.svg" alt="nitesh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github.com/niteshkr150296/mydashboard/blob/master/github-contribution-grid-snake.svg" alt="nitesh" /></p>
-
